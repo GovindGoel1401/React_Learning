@@ -1,0 +1,62 @@
+body{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-right: 40px;
+    gap: 40px;
+    /* float:left; */
+}
+.images{
+    position: relative;
+    left:0px;
+    top:10px;
+}
+.next-line-btn {
+  display: block;
+  margin-top: 10px; /* optional spacing from header */
+}
+
+.option{
+    padding-top: 30px; 
+}
+.but , .pro{
+    margin: right 10px;height:30px;
+    border:none;
+    background-color: white;
+    font-size: 20px;
+
+}
+.search{
+    width:300px;
+    height:30px;
+    position:relative;
+    top:30px;
+}
+.Profile{
+     padding-top:30px;
+     padding-right:20px;
+}
+.middle{
+    background-color: rgb(246, 246, 241);
+    padding-left: 50px;
+    padding-top: 50px; 
+    padding-right: 50px;
+    justify-content: center; 
+}
+.card{
+    background-color: rgb(15,62,15);
+    color:white;
+}
+
+button{
+    height: 50px;
+
+    background-color: orange;
+    width : 100px;
+    color: black;
+}

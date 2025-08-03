@@ -1,0 +1,69 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  justify-content: center;
+  gap: 40px;
+  margin-bottom: 20px;
+  margin-right: 40px;
+  display: flex;
+}
+
+.images {
+  position: relative;
+  top: 10px;
+  left: 0;
+}
+
+.next-line-btn {
+  margin-top: 10px;
+  display: block;
+}
+
+.option {
+  padding-top: 30px;
+}
+
+.but, .pro {
+  margin: right 10px;
+  background-color: #fff;
+  border: none;
+  height: 30px;
+  font-size: 20px;
+}
+
+.search {
+  width: 300px;
+  height: 30px;
+  position: relative;
+  top: 30px;
+}
+
+.Profile {
+  padding-top: 30px;
+  padding-right: 20px;
+}
+
+.middle {
+  background-color: #f6f6f1;
+  justify-content: center;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.card {
+  color: #fff;
+  background-color: #0f3e0f;
+}
+
+button {
+  color: #000;
+  background-color: orange;
+  width: 100px;
+  height: 50px;
+}
+/*# sourceMappingURL=indexmy.f8bf469c.css.map */
